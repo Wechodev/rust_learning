@@ -1,0 +1,11 @@
+/Applications/net/rust_project/rust-project/restaurant/target/debug/deps/rand_core-4f36b2e1b3d7e8e0.rmeta: /Users/dzsbqmacbookair/.cargo/registry/src/github.com-1ecc6299db9ec823/rand_core-0.4.2/src/lib.rs /Users/dzsbqmacbookair/.cargo/registry/src/github.com-1ecc6299db9ec823/rand_core-0.4.2/src/error.rs /Users/dzsbqmacbookair/.cargo/registry/src/github.com-1ecc6299db9ec823/rand_core-0.4.2/src/block.rs /Users/dzsbqmacbookair/.cargo/registry/src/github.com-1ecc6299db9ec823/rand_core-0.4.2/src/impls.rs /Users/dzsbqmacbookair/.cargo/registry/src/github.com-1ecc6299db9ec823/rand_core-0.4.2/src/le.rs
+
+/Applications/net/rust_project/rust-project/restaurant/target/debug/deps/librand_core-4f36b2e1b3d7e8e0.rlib: /Users/dzsbqmacbookair/.cargo/registry/src/github.com-1ecc6299db9ec823/rand_core-0.4.2/src/lib.rs /Users/dzsbqmacbookair/.cargo/registry/src/github.com-1ecc6299db9ec823/rand_core-0.4.2/src/error.rs /Users/dzsbqmacbookair/.cargo/registry/src/github.com-1ecc6299db9ec823/rand_core-0.4.2/src/block.rs /Users/dzsbqmacbookair/.cargo/registry/src/github.com-1ecc6299db9ec823/rand_core-0.4.2/src/impls.rs /Users/dzsbqmacbookair/.cargo/registry/src/github.com-1ecc6299db9ec823/rand_core-0.4.2/src/le.rs
+
+/Applications/net/rust_project/rust-project/restaurant/target/debug/deps/rand_core-4f36b2e1b3d7e8e0.d: /Users/dzsbqmacbookair/.cargo/registry/src/github.com-1ecc6299db9ec823/rand_core-0.4.2/src/lib.rs /Users/dzsbqmacbookair/.cargo/registry/src/github.com-1ecc6299db9ec823/rand_core-0.4.2/src/error.rs /Users/dzsbqmacbookair/.cargo/registry/src/github.com-1ecc6299db9ec823/rand_core-0.4.2/src/block.rs /Users/dzsbqmacbookair/.cargo/registry/src/github.com-1ecc6299db9ec823/rand_core-0.4.2/src/impls.rs /Users/dzsbqmacbookair/.cargo/registry/src/github.com-1ecc6299db9ec823/rand_core-0.4.2/src/le.rs
+
+/Users/dzsbqmacbookair/.cargo/registry/src/github.com-1ecc6299db9ec823/rand_core-0.4.2/src/lib.rs:
+/Users/dzsbqmacbookair/.cargo/registry/src/github.com-1ecc6299db9ec823/rand_core-0.4.2/src/error.rs:
+/Users/dzsbqmacbookair/.cargo/registry/src/github.com-1ecc6299db9ec823/rand_core-0.4.2/src/block.rs:
+/Users/dzsbqmacbookair/.cargo/registry/src/github.com-1ecc6299db9ec823/rand_core-0.4.2/src/impls.rs:
+/Users/dzsbqmacbookair/.cargo/registry/src/github.com-1ecc6299db9ec823/rand_core-0.4.2/src/le.rs:
